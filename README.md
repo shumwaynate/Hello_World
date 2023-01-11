@@ -17,6 +17,5 @@ To develop this program I used Visual Studio code as a text editor, with Microso
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * Learnpython.org (https://www.learnpython.org/en/Hello,_World! )
 * Datacamp (https://campus.datacamp.com/courses/introduction-to-python-machine-learning-with-analytics-vidhya-hackathons/introduction-to-python-for-data-analysis?ex=5)
